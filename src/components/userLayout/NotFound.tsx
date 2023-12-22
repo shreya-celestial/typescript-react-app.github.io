@@ -5,7 +5,7 @@ const NotFound = () => {
     <div className="notfound">
       <h1>404 Error!</h1>
       <h2>
-        Sorry but the user you are looking for is not found at this moment...
+        Sorry but the page you are looking for is not found at this moment...
         Please try again!
       </h2>
       <p>
